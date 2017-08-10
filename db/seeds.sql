@@ -1,3 +1,5 @@
+## Seeds 
+
 INSERT INTO burgers (burger_name) VALUES ('Taco Burger');
 INSERT INTO burgers (burger_name) VALUES ('A1 Burger');
 INSERT INTO burgers (burger_name) VALUES ('Animal Burger');
